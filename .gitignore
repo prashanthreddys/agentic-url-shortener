@@ -1,0 +1,19 @@
+## Build output
+[Bb]in/
+[Oo]bj/
+
+## Agentic run outputs (generated artifacts)
+output/
+
+## SQLite dev databases
+*.db
+*.db-shm
+*.db-wal
+
+## IDE / user files
+.vs/
+*.user
+
+## Test results
+[Tt]est[Rr]esults/
+*.trx
